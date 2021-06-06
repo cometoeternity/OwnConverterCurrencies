@@ -26,5 +26,7 @@ namespace ConverterCurrencies.Views.Windows
         {
             this.InitializeComponent();
         }
+
+       
     }
 }
